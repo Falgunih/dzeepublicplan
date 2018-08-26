@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Dzeepublicplan Application  sanity Test  Automation Test Suite">
+
+	
+
+	<test name="Dzeepublicplan App Test Cases">
+		<classes>
+			<class name="com.dzeepublicplan.DppLoginPageTest"></class>
+            
+
+		</classes>
+	</test>
+</suite> 
